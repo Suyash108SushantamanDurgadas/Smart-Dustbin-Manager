@@ -31,7 +31,7 @@ This project is an **ESP32-based smart dustbin** that uses ultrasonic sensors an
 ---
 
 ## Simulation
-[Wokwi Project Link](#) *(Add your Wokwi link here)*  
+Simulation link: https://wokwi.com/projects/437835373582227457
 
 ---
 
